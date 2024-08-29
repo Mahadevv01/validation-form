@@ -17,5 +17,8 @@ This project is a form validation application built using HTML, CSS, and JavaScr
 
 ## Setup Instructions
 To run the validation form locally, follow these steps:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Mahadevv01/validation-form.git
 
 
